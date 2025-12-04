@@ -68,3 +68,24 @@ pcd-eventos-frontend/
 └── README.md # Documentação
 ## 🧠 Estrutura do Projeto
 
+## 🔑 Acesso ao Sistema
+
+| Tipo de usuário | E-mail             | Senha |
+|-----------------|--------------------|--------|
+| Administrador   | admin@pcd.com      | 1234   |
+| Usuário comum   | user@pcd.com       | 1234   |
+
+> O backend deve estar ativo em:  
+> **`https://pcd-eventos.onrender.com`**
+
+---
+
+## 🌐 Publicação no GitHub Pages
+
+1️⃣ Crie o repositório no GitHub  
+2️⃣ Envie os arquivos acima  
+3️⃣ Vá em **Settings → Pages**  
+4️⃣ Em *Source*, selecione `Branch: main` e `Folder: / (root)`  
+5️⃣ Clique em **Save**
+
+🔗 Seu sistema estará disponível em:
